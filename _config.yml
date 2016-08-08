@@ -1,0 +1,14 @@
+layout_spectrum: 0.2513136381749064
+typography_spectrum: 0.2606519847176969
+color:
+  brandStrength: 0.6000933151226491
+  lightness: 0.5573328381869942
+  saturation: 0.7757839793339372
+  rhythmicContrast: 0.324191850842908
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: PSC
