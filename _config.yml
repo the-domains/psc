@@ -1,4 +1,3 @@
-layout_spectrum: 0.2513136381749064
 typography_spectrum: 0.2606519847176969
 color:
   brandStrength: 0.6000933151226491
@@ -11,5 +10,7 @@ color:
     - '#808080'
     - '#B399CC'
     - '#000000'
+layout_spectrum: 0.2513136381749064
 name: PSC
 title: Pelvic Solutions Center
+description: Lower Tag Line
