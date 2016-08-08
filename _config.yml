@@ -6,9 +6,9 @@ color:
   saturation: 0.7757839793339372
   rhythmicContrast: 0.324191850842908
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#D0D6BC'
+    - '#B8B6CF'
+    - '#808080'
+    - '#B399CC'
+    - '#000000'
 name: PSC
